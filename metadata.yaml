@@ -1,5 +1,5 @@
 _repo: Public-and-Private-Life-of-Animals-Adapted-from-the-French-of-Balzac-Droz-Jules-Janin-E-Lemoi__58214
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Droz, Gustave
@@ -20,6 +20,9 @@ contributor:
     agent_name: Gérard, Jean Ignace Isadore
     gutenberg_agent_id: '49828'
     url: http://www.gutenberg.org/2009/agents/49828
+covers:
+- cover_type: archival
+  image_path: 58214-h/images/cover.jpg
 creator:
   author:
     agent_name: Thomson, J. Arthur (John Arthur)
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9286
     wikipedia: http://en.wikipedia.org/wiki/J._Arthur_Thomson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58214#Public-and-Private-Life-of-Animals-Adapted-from-the-French-of-Balzac-Droz-Jules-Janin-E-Lemoi_
 gutenberg_issued: '2018-10-31'
 gutenberg_type: Text
 identifiers:
