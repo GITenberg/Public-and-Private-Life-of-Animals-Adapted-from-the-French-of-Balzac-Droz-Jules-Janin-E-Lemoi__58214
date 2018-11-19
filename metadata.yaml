@@ -1,0 +1,48 @@
+_repo: Public-and-Private-Life-of-Animals-Adapted-from-the-French-of-Balzac-Droz-Jules-Janin-E-Lemoi__58214
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Droz, Gustave
+    birthdate: 1832
+    deathdate: 1895
+    gutenberg_agent_id: '1337'
+    url: http://www.gutenberg.org/2009/agents/1337
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Gustave_Droz
+  - agent_name: Stahl, P.-J.
+    aliases:
+    - Stahl, P. J.
+    - Stahl, Pierre Jules
+    birthdate: 1814
+    deathdate: 1886
+    gutenberg_agent_id: '38253'
+    url: http://www.gutenberg.org/2009/agents/38253
+  illustrator:
+    agent_name: Gérard, Jean Ignace Isadore
+    gutenberg_agent_id: '49828'
+    url: http://www.gutenberg.org/2009/agents/49828
+creator:
+  author:
+    agent_name: Thomson, J. Arthur (John Arthur)
+    alias: Thomson, John Arthur
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '9286'
+    url: http://www.gutenberg.org/2009/agents/9286
+    wikipedia: http://en.wikipedia.org/wiki/J._Arthur_Thomson
+description: ''
+gutenberg_issued: '2018-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Public and Private Life of Animals
+
+  Adapted from the French of Balzac, Droz, Jules Janin, E.
+
+  Lemoine, A. De Musset, Georges Sand, &c.'
+url: http://www.gutenberg.org/ebooks/58214
